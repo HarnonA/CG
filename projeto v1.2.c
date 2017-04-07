@@ -1,4 +1,4 @@
-// Ultima alteração 07 Abril 2017 11:53
+// Ultima alteração 07 Abril 2017 12:40
 
 /*
  * Teclas usadas na navegação
@@ -6,6 +6,7 @@
  * a/d : esquerda/direita
  * z/x : cima/baixo
  * u/i : rotação equerda/direita
+ * p : abrir porta
  */
 
 /* -> todo
