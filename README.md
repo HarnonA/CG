@@ -1,2 +1,3 @@
 # CG
-Computação gráfica 2016.2 UFAL
+Projeto de Computação gráfica 2016.2 UFAL
+Modelagem da CBTU
